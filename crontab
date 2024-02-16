@@ -1,0 +1,6 @@
+#
+SHELL=/bin/sh
+PATH=/home/user:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+#
+
+* * * * * root /usr/bin/exploit_me.sh
