@@ -10,4 +10,4 @@ This is a dockerized lab about Linux Privilege Escalation which covers some basi
   - Execute `./start_lab.sh`
 
 
-Have fun, and **Happy Hackking** !!
+Have fun, and **Happy Hacking** !!
